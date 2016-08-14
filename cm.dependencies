@@ -16,10 +16,6 @@
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "android_hardware_sony_thermanager",
-    "target_path": "hardware/sony/thermanager"
-  },
-  {
     "repository": "TheMuppets/proprietary_vendor_htc",
     "target_path": "vendor/htc"
   }
