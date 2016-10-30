@@ -2,3 +2,5 @@
 persist.service.adb.enable=1
 persist.service.debuggable=1
 persist.sys.usb.config=mtp,adb
+media.stagefright.legacyencoder=true
+media.stagefright.less-secure=true
