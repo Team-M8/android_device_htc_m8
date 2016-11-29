@@ -1,6 +1,6 @@
 #enable debugging by default
-persist.service.adb.enable=1
-persist.service.debuggable=1
-persist.sys.usb.config=mtp,adb
+#persist.service.adb.enable=1
+#persist.service.debuggable=1
+#persist.sys.usb.config=mtp,adb
 ro.opa.eligible_device=true
 
